@@ -10,9 +10,8 @@ const dankMemes = [
   ]
 
 
-  let div = document.getElementById('container')
+//   let div = document.getElementById('container')
 
-  dankMemes.forEach( element =>
-      div.innerHTML += `<img src="${element}">`
-  )
-
+//   dankMemes.forEach( element =>
+//       div.innerHTML += `<img src="${element}">`
+//   )
